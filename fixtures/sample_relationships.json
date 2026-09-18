@@ -1,0 +1,59 @@
+[
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "TSMC",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA states it uses TSMC to produce semiconductor wafers."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Marvell Technology",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-03-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+      "locator": "Strategic partnership announcement",
+      "note": "NVIDIA and Marvell announced a strategic partnership around NVLink Fusion and silicon photonics."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "Marvell Technology",
+    "status": "confirmed",
+    "amount": "$2 billion",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-03-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+      "locator": "Investment disclosure in partnership announcement",
+      "note": "NVIDIA stated it invested $2 billion in Marvell."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "peer",
+    "target": "AMD",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, Competition section",
+      "note": "NVIDIA lists AMD among current competitors."
+    },
+    "research_cutoff": "2026-09-18"
+  }
+]

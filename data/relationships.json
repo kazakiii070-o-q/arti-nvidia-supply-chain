@@ -1,0 +1,496 @@
+[
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "TSMC",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA states it uses TSMC to produce semiconductor wafers."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "Samsung Electronics",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA states it uses Samsung to produce semiconductor wafers and purchases memory from Samsung."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "SK hynix",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA states it purchases memory from SK hynix."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "Micron Technology",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA states it purchases memory from Micron."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "Hon Hai Precision Industry",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA identifies Hon Hai among independent subcontractors/contract manufacturers for assembly, testing and packaging."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "Wistron",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA identifies Wistron among independent subcontractors/contract manufacturers."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "Fabrinet",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, supply chain/manufacturing discussion",
+      "note": "NVIDIA identifies Fabrinet among independent subcontractors/contract manufacturers."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "AWS",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-26",
+      "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "locator": "Strategic collaboration announcement",
+      "note": "NVIDIA and AWS announced an expanded strategic collaboration and plans to deploy 2 million additional NVIDIA GPUs across AWS infrastructure in 2027-2028."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Marvell Technology",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-03-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+      "locator": "Strategic partnership announcement",
+      "note": "NVIDIA and Marvell announced a strategic partnership around NVLink Fusion and silicon photonics."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "SK Group",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-07-24",
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "locator": "Expanded strategic partnership announcement",
+      "note": "NVIDIA and SK Group announced a comprehensive partnership spanning AI factories and next-generation memory."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "MediaTek",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "locator": "Partnership announcement",
+      "note": "NVIDIA and MediaTek announced a deeper collaboration across AI infrastructure, local AI computing and automotive."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Meta",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-02-17",
+      "url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+      "locator": "Multiyear strategic partnership announcement",
+      "note": "NVIDIA announced a multiyear, multigenerational strategic partnership with Meta covering CPUs, GPUs, networking and AI infrastructure."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Microsoft",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-05-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-microsoft-windows-pcs-agents-rtx-spark",
+      "locator": "RTX Spark / Windows AI collaboration announcement",
+      "note": "NVIDIA and Microsoft announced collaboration on Windows-native personal AI agent experiences and RTX Spark."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Apollo",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "AI compute infrastructure financing platforms announcement",
+      "note": "NVIDIA announced a strategic partnership with Apollo and other financial institutions to establish independent compute financing platforms."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "Marvell Technology",
+    "status": "confirmed",
+    "amount": "$2 billion",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-03-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+      "locator": "Investment disclosure in partnership announcement",
+      "note": "NVIDIA stated it invested $2 billion in Marvell."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "Safe Superintelligence Inc. (SSI)",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-07-27",
+      "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
+      "locator": "Investment disclosure in partnership announcement",
+      "note": "NVIDIA stated it made an investment in SSI; the announcement does not state an investment amount."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "SB Energy",
+    "status": "confirmed",
+    "amount": "$1.5 billion",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-17",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "locator": "NVIDIA Invests in SB Energy section",
+      "note": "NVIDIA stated it will invest $1.5 billion in SB Energy."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "MediaTek",
+    "status": "confirmed",
+    "amount": "$3.5 billion",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-31",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
+      "locator": "Investment disclosure in partnership announcement",
+      "note": "NVIDIA stated it invested $3.5 billion in convertible bonds issued by MediaTek."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "peer",
+    "target": "AMD",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, Competition section",
+      "note": "NVIDIA lists AMD among current competitors."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "peer",
+    "target": "Intel",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-01-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "locator": "FY2026 Form 10-K, Competition section",
+      "note": "NVIDIA lists Intel among current competitors."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "customer",
+    "target": "AWS",
+    "status": "documented_deployment_relationship",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-26",
+      "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "locator": "Expanded collaboration / compute capacity sections",
+      "note": "The announcement documents AWS deployment of NVIDIA GPUs and describes customer adoption of NVIDIA-accelerated compute on AWS. Exact contractual customer classification is not separately disclosed in the announcement."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "customer",
+    "target": "Meta",
+    "status": "documented_deployment_relationship",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-02-17",
+      "url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+      "locator": "Meta deployment / strategic partnership sections",
+      "note": "The announcement documents Meta's planned large-scale deployment of NVIDIA CPUs, Blackwell and Rubin GPUs and networking. Exact contractual customer classification is not separately disclosed."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "customer",
+    "target": "Google Cloud",
+    "status": "documented_deployment_relationship",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2024-03-18",
+      "url": "https://nvidianews.nvidia.com/news/google-cloud-ai-development",
+      "locator": "Google adoption of NVIDIA Grace Blackwell / DGX Cloud sections",
+      "note": "Google Cloud announced adoption of NVIDIA platforms and NVIDIA-powered cloud offerings. This older evidence is retained as historical relationship evidence and is not presented as a current revenue concentration claim."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "customer",
+    "target": "OpenAI",
+    "status": "documented_lease_relationship",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-08-26",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+      "locator": "2026 Q2 Form 10-Q, commitments and guarantees / SB Energy PORTS Technology Campus",
+      "note": "NVIDIA disclosed that SB Energy's campus will exclusively host NVIDIA compute under 20-year leases to OpenAI, subject to limited exceptions. This is recorded as a documented lease/deployment relationship rather than an unsupported direct-customer classification."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "BlackRock",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "Strategic partnerships / compute financing platforms",
+      "note": "NVIDIA announced a strategic partnership with BlackRock to establish an independent compute financing platform."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Blackstone",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "Strategic partnerships / compute financing platforms",
+      "note": "NVIDIA announced a strategic partnership with Blackstone to establish an independent compute financing platform."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Brookfield",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "Strategic partnerships / compute financing platforms",
+      "note": "NVIDIA announced a strategic partnership with Brookfield to establish an independent compute financing platform."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Goldman Sachs",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "Strategic partnerships / compute financing platforms",
+      "note": "NVIDIA announced a strategic partnership with Goldman Sachs to establish an independent compute financing platform."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "KKR",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "Strategic partnerships / compute financing platforms",
+      "note": "NVIDIA announced a strategic partnership with KKR to establish an independent compute financing platform."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Palantir Technologies",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-09-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
+      "locator": "Collaboration announcement; supply-chain deployment section",
+      "note": "NVIDIA and Palantir announced a collaboration deploying a combined AI stack in NVIDIA's own supply chain."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "partner",
+    "target": "Coherent",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm",
+      "locator": "Exhibit 99.1, strategic partnership announcement",
+      "note": "NVIDIA and Coherent announced a multi-year strategic agreement covering advanced optics, manufacturing capacity and R&D."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "Coherent",
+    "status": "confirmed",
+    "amount": "$2 billion",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm",
+      "locator": "Exhibit 99.1, investment disclosure",
+      "note": "The announcement states NVIDIA is investing $2 billion in Coherent."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "supplier",
+    "target": "Coherent",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "U.S. SEC",
+      "published_at": "2026-03-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm",
+      "locator": "Exhibit 99.1, purchase commitment and capacity rights",
+      "note": "The agreement includes a multi-billion-dollar NVIDIA purchase commitment and future access/capacity rights for Coherent optical products."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "customer",
+    "target": "Palantir Technologies",
+    "status": "documented_deployment_relationship",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-09-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
+      "locator": "Collaboration announcement",
+      "note": "The announcement documents Palantir software deployed with NVIDIA's own supply-chain operations. It does not separately establish Palantir as a direct NVIDIA customer, so the conservative status is retained."
+    },
+    "research_cutoff": "2026-09-18"
+  },
+  {
+    "source": "NVIDIA",
+    "relationship": "investor",
+    "target": "Helix Digital Infrastructure",
+    "status": "confirmed",
+    "evidence": {
+      "publisher": "NVIDIA Newsroom",
+      "published_at": "2026-08-10",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "locator": "KKR quote / strategic partnership announcement",
+      "note": "The announcement identifies NVIDIA as a founding investor in Helix Digital Infrastructure."
+    },
+    "research_cutoff": "2026-09-18"
+  }
+]
