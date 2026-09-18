@@ -165,7 +165,7 @@
     "access_date": "2026-09-18",
     "access_limitations": "公开可访问；无需登录、付费墙、验证码或 API Key。",
     "confidence_rationale": "NVIDIA 官方公告明确描述合作或联合基础设施关系；关系方向清晰，但不据此推断采购金额或客户身份。",
-    "review_state": "ai_assisted_draft_pending_human_review"
+    "review_state": "human_verified"
   },
   {
     "source": "NVIDIA",
