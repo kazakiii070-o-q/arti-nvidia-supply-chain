@@ -29,7 +29,7 @@
 | NVIDIA → AWS | 区分合作/部署关系与 direct customer，不因 GPU 使用直接认定为客户 | 已进行人工核验 |
 | NVIDIA → Meta | 核对官方公告实际描述，避免将基础设施合作直接标记为 direct customer | 已进行人工核验 |
 | NVIDIA → OpenAI | 核对公开来源能支持的是 customer、partner 还是 deployment relationship | 已进行人工核验 |
-| NVIDIA → Coherent | 分别核对供应关系与投资关系的证据，避免关系类型混淆 | 待人工核验 |
+| NVIDIA → Coherent | 分别核对供应关系与投资关系的证据，避免关系类型混淆 | 已进行人工核验 |
 | NVIDIA → AMD | 核对 SEC 披露中的竞争关系及关系方向 | 待人工核验 |
 
 ## 人工复核记录规则
