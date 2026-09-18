@@ -313,7 +313,7 @@
     "access_date": "2026-09-18",
     "access_limitations": "公开可访问；无需登录、付费墙、验证码或 API Key。",
     "confidence_rationale": "NVIDIA 官方公告明确披露投资/融资安排；交易方向或参与方身份清晰，未将合作关系自动推断为投资关系。",
-    "review_state": "ai_assisted_draft_pending_human_review"
+    "review_state": "human_verified"
   },
   {
     "source": "NVIDIA",
