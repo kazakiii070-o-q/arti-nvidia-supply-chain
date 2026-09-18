@@ -27,7 +27,7 @@
 | NVIDIA → Samsung Electronics | SEC 10-K 是否同时支持晶圆/存储相关表述 | 已进行人工核验 |
 | NVIDIA → Marvell Technology | 区分合作关系与投资关系，确认是否应拆分为两条关系 | 已进行人工核验 |
 | NVIDIA → AWS | 区分合作/部署关系与 direct customer，不因 GPU 使用直接认定为客户 | 已进行人工核验 |
-| NVIDIA → Meta | 核对官方公告实际描述，避免将基础设施合作直接标记为 direct customer | 待人工核验 |
+| NVIDIA → Meta | 核对官方公告实际描述，避免将基础设施合作直接标记为 direct customer | 已进行人工核验 |
 | NVIDIA → OpenAI | 核对公开来源能支持的是 customer、partner 还是 deployment relationship | 待人工核验 |
 | NVIDIA → Coherent | 分别核对供应关系与投资关系的证据，避免关系类型混淆 | 待人工核验 |
 | NVIDIA → AMD | 核对 SEC 披露中的竞争关系及关系方向 | 待人工核验 |
