@@ -23,7 +23,7 @@
 
 | 关系 | 重点核验内容 | 复核状态 |
 |---|---|---|
-| NVIDIA → TSMC | SEC 10-K 是否明确支持供应关系及关系方向 | 待人工核验 |
+| NVIDIA → TSMC | SEC 10-K 是否明确支持供应关系及关系方向 | 已进行人工核验 |
 | NVIDIA → Samsung Electronics | SEC 10-K 是否同时支持晶圆/存储相关表述 | 待人工核验 |
 | NVIDIA → Marvell Technology | 区分合作关系与投资关系，确认是否应拆分为两条关系 | 待人工核验 |
 | NVIDIA → AWS | 区分合作/部署关系与 direct customer，不因 GPU 使用直接认定为客户 | 待人工核验 |
